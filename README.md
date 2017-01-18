@@ -6,7 +6,7 @@ run.sh is a submission script to run in Rocket - http://www.hpc.ut.ee/rocket_clu
 
 Different mesh sizes were used. Those scripts can be found in the specific foldars. 
 
-Supervisor: Benson Muite
+Thank you to Benson Muite for his good suggestions.
 
 Sponsor: IT Akadeemia
 http://www.hitsa.ee/ikt-haridus/ita
